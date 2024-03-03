@@ -1,3 +1,12 @@
+# This is the code for a Hexadecimal Calculator, in which it converges from Hexadecimal to Integers, it has a system that takes the brute input,
+# makes it into a list, and inverts, so that the hexToDec function can follow an order that takes the base 16 as an increasing subject and 
+# facilitates the processing of the data.
+# It also takes into account that the user might not input valid data and so it simply returns 'None' if one or more characters are not listed in 
+# the dictionary.
+# It also contains a non-stop way of working that makes it easier for the user to calculate multiple values and only stops if the user asks to.
+
+
+
 
 #declare
 dict ={
